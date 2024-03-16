@@ -14,4 +14,15 @@ Value: High
 4. Firewall settings are updated to let the web server work and a new VM has been created.
 5. After the instance is created, the Windows password for the account needs to be saved which will be available in the “set new Windows password” option.
 
+## Outcomes
+
+1. The image has been loaded successfully.
+2. Firewall settings have been updated.
+3. VM has been created successfully.
+
+## Next Steps 
+
+Access the VM through a remote desktop and publish the map.
+
+
 
