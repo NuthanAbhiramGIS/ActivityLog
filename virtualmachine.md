@@ -8,10 +8,10 @@ Value: High
 
 ## Steps Followed
 
-•	A new VM instance has been enabled by the “create new instance” option that will be available in the compute engine – VM Instances – Enable.
-•	The name of this VM should be given accordingly.
-•	VM image is selected from the Boot disk from a different VM.
-•	Firewall settings are updated to let the web server work and a new VM has been created.
-•	After the instance is created, the windows password for the account needs to be saved which will be available in the “set new Windows password” option.
+1. A new VM instance has been enabled by the “create new instance” option that will be available in the compute engine – VM Instances – Enable.
+2. The name of this VM should be given accordingly.
+3. The VM image is selected from the Boot disk from a different VM.
+4. Firewall settings are updated to let the web server work and a new VM has been created.
+5. After the instance is created, the Windows password for the account needs to be saved which will be available in the “set new Windows password” option.
 
 
