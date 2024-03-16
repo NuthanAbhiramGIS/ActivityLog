@@ -4,8 +4,9 @@ Date: 03-07-2024
 Start time: 12 pm
 End time: 12:50 pm
 Total time: 50 min
+(Energy: Moderate)
 Value: High
-Energy: Moderate
+
 
 ## Steps Followed
 
@@ -69,7 +70,42 @@ Note: Shut down the server after the publishing process is completed to save cre
 
 https://www.youtube.com/watch?v=dyFeyBX9jIY
 
+# Publishing the map through the ArcGIS server
 
+Date: 03-07-2024
+Start time: 1:20 pm
+End time:2:10 pm
+Total time: 50 min
+(Energy: Moderate)
+Value: High
+
+
+## Steps Followed
+1. ArcGIS Pro is used to add the data from the folder which was on the virtual machine.
+2. The folder was registered in the publisher folder path.
+3. The server should be added successfully.
+4. ArcGIS manager was set according to the credentials that were set.
+5. ArcGIS pro server publish
+
+## Outcomes
+
+1. The map was published on the ArcGIS server. The IP address of the computer which was the external IP in the VM machine played a server role in this instance.
+2. https://34.42.157.184:6443/arcgis/rest/services/NChenell_Web/MapServer (Link might not work in future)
+
+![Serverconnectionss](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/833a0896-b55e-4e05-b0c4-26c5d14ce0b6)
+
+
+## Next Steps 
+
+1. Check whether the map published was successful.
+
+2. Continue with other items on checklist and join a group for the project.
+
+## Resources
+
+1. ArcGIS Server Manager
+2. ArcGIS Pro
+3. Resources provided by professor.
 
 
 
