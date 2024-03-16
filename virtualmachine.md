@@ -54,7 +54,9 @@ Value: High
 1. Connecting to a remote desktop using the external IP of the VM instance.
 2. Understood the use of Windows username and password.
 
-![image](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/46c7ef4a-f22a-473e-9b67-2c4a4ed52aa8)
+
+![before shutdown](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/bac53a6e-150e-4160-b9c9-2cb7f71de6e6)
+
 
 ## Next Steps 
 
