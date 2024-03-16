@@ -97,15 +97,54 @@ Value: High
 
 ## Next Steps 
 
-1. Check whether the map published was successful.
-
-2. Continue with other items on checklist and join a group for the project.
+1. This map should be published in ArcGIS online as instructed.
 
 ## Resources
 
 1. ArcGIS Server Manager
 2. ArcGIS Pro
-3. Resources provided by professor.
+3. Resources provided by the professor.
+
+# Publishing map in ArcGIS online
+
+Date: 03-07-2024
+Start time: 3 pm 
+End time: 3:20 pm
+Total time: 20 min
+(Energy: High)
+Value: High
+
+## Steps Followed
+
+1. Open ArcGIS online and click on “new item”.
+2. The URL option was used to publish the map in AGOL.
+3. This process was executed three times.
+4. The feature layer was also published by adding “/0” at the end of the URL.
+
+## Outcomes
+
+1. https://fleming.maps.arcgis.com/apps/mapviewer/index.html?layers=23a18e7078fe4329bcd6726c5aaed5a7 (Link might not work in future)
+2. https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=2463a69d85914a009f2fbc109d05802f (Link might not work in future)
+3. A map is published and a web map has been created.
+4. External IP address will be changed every time the VM is stopped
+
+![MapSS](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/b7b7ffbe-e7bd-49a6-9fc8-e81f9d397b3e)
+
+## Next steps
+
+1. Check whether the map published was successful.
+
+2. Continue with other items on the checklist and join a group for the project.
+
+## Resources
+
+https://www.arcgis.com/index.html 
+Resources provided by the professor.
+
+
+
+
+
 
 
 
