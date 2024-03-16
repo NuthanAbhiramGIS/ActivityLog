@@ -5,6 +5,7 @@ Start time: 12 pm
 End time: 12:50 pm
 Total time: 50 min
 Value: High
+Energy: Moderate
 
 ## Steps Followed
 
@@ -23,6 +24,13 @@ Value: High
 ## Next Steps 
 
 Access the VM through a remote desktop and publish the map.
+
+## Resources
+
+•	Console.cloud.google.com
+•	https://youtu.be/dyFeyBX9jIY 
+•	Resources provided by lecturer.
+
 
 
 
