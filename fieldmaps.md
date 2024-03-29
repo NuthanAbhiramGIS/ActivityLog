@@ -8,8 +8,8 @@ Total time in minutes: 50 min
 
 ## Steps followed
 
-•	ArcGIS Field maps is one of the free sources available. 
-•	The working pattern of this platform is understood because our project is related to collecting the data at different location and Field maps are good for collecting data at a certain location.
+1. ArcGIS Field maps are one of the free sources available. 
+2. The working pattern of this platform is understood because our project is related to collecting the data at different location and Field maps are good for collecting data at a certain location.
 
 ## Outcomes
 
