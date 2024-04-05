@@ -30,7 +30,8 @@ Energy: Moderate
 1. The REST end URL of the feature is acquired from the ArcGIS online feature layer.
 2. A map is added with the preferred location and tile layers. 
 3. The Geojson layer is added with the help of the REST end URL and the data in this layer is being fetched for every 1 minute.
-4. Markers are added to the data which will be shown on the map. This data is the city assets data collected by users from field maps in smart form. 
+4. Markers are added to the data which will be shown on the map. This data is the city assets data collected by users from field maps in smart form.
+   ![6](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/723b75c2-c5ec-4902-9b70-512ef8e5d2ab)
 
 ## Resources used
 1. https://stackoverflow.com/questions/69125945/leaflet-mapping-assign-object-to-fetch-promise-for-local-geojson-file
