@@ -22,7 +22,6 @@ Energy: Moderate
 9. The Geojson layer is added to the HTML with the help of the function “Var geojsonlayer”.
 10. Fetch data function is added to get the data from the Geojson feature server layer link which is added from ArcGIS online. This feature layer’s data will be used and shown as markers with the help of the function “on Each Feature’. 
 ![5](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/1b936a04-d6e8-4645-a18e-9366cd6da45a)
-11. The feature layer here has the data that was collected from the Field maps smart form. 
 12. This data will be updated for every 1 minute with the help of the “set interval” function.
 
 
