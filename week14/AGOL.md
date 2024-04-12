@@ -11,7 +11,7 @@ Value: High
 1. Layers are opened in ArcGIS online as they were hosted as feature layers.
 2. Tried to change the style but every time I tried to change it, it was always asking to change the layer as a web map.
 3. Used the “visualization” option in the feature layer to change the styles.
-4. The image was added in the layer style option.
+4. An open-source image was selected from the internet and added as a marker in the layer style option.
 
 ![visualization](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/e3bf71ed-294a-4201-830e-77805248dd02)
 
