@@ -13,6 +13,7 @@ Value: High
 3. Used “visualization” option in feature layer to change the styles.
 4. Image was added in the layer style option.
 
+![visualization](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/e3bf71ed-294a-4201-830e-77805248dd02)
 
 ##Outcomes
 1. A few markers were added to the layer by using visualization option and these were displaying successfully in field maps.
