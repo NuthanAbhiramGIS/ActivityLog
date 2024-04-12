@@ -15,7 +15,7 @@ Value: High
 
 ![visualization](https://github.com/NuthanAbhiramGIS/Activitylog/assets/146375982/e3bf71ed-294a-4201-830e-77805248dd02)
 
-##Outcomes
+## Outcomes
 1. A few markers were added to the layer by using the visualization option and these were displayed successfully in field maps.
 2. The image added was also displayed successfully in field maps.
 
